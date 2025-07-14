@@ -45,3 +45,4 @@ python3 cli.py parse lvs --file reports/lvs.log --format json
 ### 3️⃣ 執行完整流程（run ➝ parse ➝ export）
 python3 cli.py flow drc --file reports/drc.log --output output/drc_summary.csv
 
+# eda-mind-demo
