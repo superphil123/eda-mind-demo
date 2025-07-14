@@ -46,3 +46,4 @@ python3 cli.py parse lvs --file reports/lvs.log --format json
 python3 cli.py flow drc --file reports/drc.log --output output/drc_summary.csv
 
 # eda-mind-demo
+# eda-mind-demo
