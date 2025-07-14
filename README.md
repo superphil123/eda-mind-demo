@@ -39,10 +39,12 @@ python3 cli.py run drc
 python3 cli.py run lvs
 
 ### 2️⃣ 分析報告
+```bash
 python3 cli.py parse drc --file reports/drc.log --format csv
 python3 cli.py parse lvs --file reports/lvs.log --format json
 
 ### 3️⃣ 執行完整流程（run ➝ parse ➝ export）
+```bash
 python3 cli.py flow drc --file reports/drc.log --output output/drc_summary.csv
 
 # eda-mind-demo
