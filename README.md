@@ -1,7 +1,7 @@
 -Mind Demo CLI 工具平台
 
 A lightweight CLI tool for automating EDA tasks like DRC and LVS parsing.  
-一個模擬 MediaTek Mind 概念的 EDA 任務自動化平台，支援命令列操作與報表產生。
+
 
 ---
 
